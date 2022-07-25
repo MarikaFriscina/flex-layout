@@ -28,4 +28,5 @@ h1,h2{
 .item{
     width:32%;
     padding:10px;
+    text-align: center;
 }
